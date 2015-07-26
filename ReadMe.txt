@@ -1,3 +1,15 @@
+Extending the template designed by Xiaoying Riley at 3rd Wave Media (http://themes.3rdwavemedia.com/).
+
+To add, features:
+
+1. Tweet Widget
+2. Dark Theme
+3. View Linked Websites without leaving the page
+4. Common Place to add all links to Online Presence: SO, Github..etc.
+5. Modify sections to include more revelant data
+
+Original Project:
+
 Responsive HTML5 website template for developers
 
 Theme name:
