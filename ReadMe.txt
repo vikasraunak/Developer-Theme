@@ -6,7 +6,11 @@ To add, features:
 2. Dark Theme
 3. View Linked Websites without leaving the page
 4. Common Place to add all links to Online Presence: SO, Github..etc.
-5. Modify sections to include more revelant data
+5. Modify sections to include more revelant data (Awards, Certifications etc.)
+6. Skill Endorsement via Twitter/FB
+7. View Resume on the same page
+8. Contact Me 1-- via Email
+9. Contact Me 2-- via form at page end
 
 Original Project:
 
